@@ -3,6 +3,8 @@
 
 Explorando os fatores que influenciam e estratégias para reduzir o abandono de clientes.
 
+Link da documentação: https://medium.com/@rrmfaria88/estudo-de-caso-an%C3%A1lise-de-churn-31f02a19d3a3
+
 ![App Screenshot](https://github.com/user-attachments/assets/eb36e274-a67c-45fb-bed1-4d939b705f9a)
 
 ![App Screenshot](https://github.com/user-attachments/assets/5e05ab53-9f2d-46d3-9d30-746dab23bc13)
