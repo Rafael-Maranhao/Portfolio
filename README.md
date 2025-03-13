@@ -1,5 +1,3 @@
+# Project Portfolio
 
-# Portfólio de Projetos
-
-Aqui estão reunidos os trabalhos realizados pelo analista de dados Rafael Faria.
-
+Here are the projects carried out by Data Analyst Rafael Faria.
