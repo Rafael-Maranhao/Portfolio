@@ -1,5 +1,4 @@
-Case Study: Churn Analysis
-
+# Case Study: Churn Analysis
 
 Exploring the influencing factors and strategies to reduce customer attrition.
 
