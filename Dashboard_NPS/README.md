@@ -1,5 +1,4 @@
-NPS Dashboard
-
+# NPS Dashboard
 
 Dashboard for monitoring NPS in post-sales.
 
