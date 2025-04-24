@@ -1,6 +1,6 @@
-# Case Study: Churn Analysis
+# Estudo de caso: Análise de Churn
 
-Exploring the influencing factors and strategies to reduce customer attrition.
+Explorando os fatores de influência e as estratégias para reduzir o desgaste de clientes.
 
 Documentation link: https://medium.com/@rrmfaria88/estudo-de-caso-an%C3%A1lise-de-churn-31f02a19d3a3
 
