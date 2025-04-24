@@ -2,9 +2,9 @@
 
 Explorando os fatores de influência e as estratégias para reduzir o desgaste de clientes.
 
-Documentation link: https://medium.com/@rrmfaria88/estudo-de-caso-an%C3%A1lise-de-churn-31f02a19d3a3
+Link da documentação: https://medium.com/@rrmfaria88/estudo-de-caso-an%C3%A1lise-de-churn-31f02a19d3a3
 
-Power BI Online Report Link: https://app.powerbi.com/view?r=eyJrIjoiYWNmMDU5ZmUtZmFiMC00YzExLTg1MjMtZjkxNWQyOTNlMzM5IiwidCI6Ijg2MTU1Y2YwLTE3ZWUtNDA2Mi1hYTgyLTMyZWYwZTk0NzlkMCJ9
+Link do Dashboard no Power BI Online: https://app.powerbi.com/view?r=eyJrIjoiYWNmMDU5ZmUtZmFiMC00YzExLTg1MjMtZjkxNWQyOTNlMzM5IiwidCI6Ijg2MTU1Y2YwLTE3ZWUtNDA2Mi1hYTgyLTMyZWYwZTk0NzlkMCJ9
 
 ![App Screenshot](https://github.com/user-attachments/assets/eb36e274-a67c-45fb-bed1-4d939b705f9a)
 
