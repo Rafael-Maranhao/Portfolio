@@ -23,6 +23,8 @@ Analisar a influência de três fatores no salário em USD:
 - Análise Estatística (Regressão Linear, p-valores, R²)
 - Pré-processamento de Dados (Codificação, Transformação)
 
+<br>
+
 ### 📉 Principais Resultados
 
 <br>
@@ -41,6 +43,8 @@ Analisar a influência de três fatores no salário em USD:
 - Incluir variáveis como experiência, formação e setor;
 - Investigar interações entre variáveis (ex.: remoto × cargo);
 - Coletar dados adicionais para reduzir viés e melhorar o poder explicativo.
+
+<br>
 
 ##### 🔗 Explore o código completo no notebook para detalhes técnicos, visualizações e conclusões aprofundadas!
 Dica: Os dados processados estão disponíveis em salarios_processados.csv.
