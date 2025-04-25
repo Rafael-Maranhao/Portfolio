@@ -15,6 +15,14 @@ Analisar a influência de três fatores no salário em USD:
 
 <br>
 
+### 🛠️ Tecnologias Utilizadas
+
+<br>
+
+- Python (Pandas, Scikit-Learn, SciPy)
+- Análise Estatística (Regressão Linear, p-valores, R²)
+- Pré-processamento de Dados (Codificação, Transformação)
+
 ### 📉 Principais Resultados
 
 <br>
@@ -25,6 +33,14 @@ Analisar a influência de três fatores no salário em USD:
 - Trabalho remoto: Vagas remotas têm salários USD 3.588 menores/ano (p = 0,001).
 
 <br>
+
+### 🚀 Próximos Passos Sugeridos
+
+<br>
+
+- Incluir variáveis como experiência, formação e setor;
+- Investigar interações entre variáveis (ex.: remoto × cargo);
+- Coletar dados adicionais para reduzir viés e melhorar o poder explicativo.
 
 ##### 🔗 Explore o código completo no notebook para detalhes técnicos, visualizações e conclusões aprofundadas!
 Dica: Os dados processados estão disponíveis em salarios_processados.csv.
