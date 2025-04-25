@@ -1,4 +1,4 @@
-# Estudo de caso: Análise de Churn
+## 📊 Estudo de caso: Análise de Churn
 
 Explorando os fatores de influência e as estratégias para reduzir o desgaste de clientes.
 
