@@ -9,9 +9,9 @@ Este projeto investiga como variáveis como cargo, tamanho da empresa e trabalho
 ### 🎯 Objetivo do Estudo
 Analisar a influência de três fatores no salário em USD:
 
-Cargo (codificado por nível)
-Tamanho da empresa (pequena, média, grande)
-Trabalho remoto (binário: remoto vs. híbrido/presencial)
+- Cargo (codificado por nível)
+- Tamanho da empresa (pequena, média, grande)
+- Trabalho remoto (binário: remoto vs. híbrido/presencial)
 
 <br>
 
