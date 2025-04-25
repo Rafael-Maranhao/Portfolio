@@ -1,4 +1,4 @@
-# Dashboard de NPS
+## 📊 Dashboard de NPS
 
 Dashboard em Power BI para monitorar o NPS no pós-venda de uma empresa de e-commerce.
 
