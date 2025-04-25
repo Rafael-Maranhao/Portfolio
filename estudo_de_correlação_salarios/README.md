@@ -7,7 +7,7 @@ Este projeto investiga como variáveis como cargo, tamanho da empresa e trabalho
 <br>
 <br>
 
-# 🎯 Objetivo do Estudo
+### 🎯 Objetivo do Estudo
 Analisar a influência de três fatores no salário em USD:
 
 Cargo (codificado por nível)
@@ -17,7 +17,7 @@ Trabalho remoto (binário: remoto vs. híbrido/presencial)
 <br>
 <br>
 
-📉 Principais Resultados
+### 📉 Principais Resultados
 
 <br>
 
@@ -25,3 +25,9 @@ Trabalho remoto (binário: remoto vs. híbrido/presencial)
 - Cargo: Explica 5,07% da variação (+USD 439/ano por nível superior, p < 0,001);
 - Tamanho da empresa: Empresas maiores pagam USD 7.634 menos/ano (p = 0,001);
 - Trabalho remoto: Vagas remotas têm salários USD 3.588 menores/ano (p = 0,001).
+
+<br>
+<br>
+
+#####🔗 Explore o código completo no notebook para detalhes técnicos, visualizações e conclusões aprofundadas!
+Dica: Os dados processados estão disponíveis em salarios_processados.csv.
