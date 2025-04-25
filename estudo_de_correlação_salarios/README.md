@@ -1,4 +1,4 @@
-# 📊 Estudo de Correlação: Fatores que Impactam Salários em Dados
+## 📊 Estudo de Correlação: Fatores que Impactam Salários em Dados
 
 <br>
 
@@ -26,5 +26,5 @@ Analisar a influência de três fatores no salário em USD:
 
 <br>
 
-#####🔗 Explore o código completo no notebook para detalhes técnicos, visualizações e conclusões aprofundadas!
+##### 🔗 Explore o código completo no notebook para detalhes técnicos, visualizações e conclusões aprofundadas!
 Dica: Os dados processados estão disponíveis em salarios_processados.csv.
